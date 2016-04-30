@@ -1,0 +1,2 @@
+# hs-playground
+Haskell Playground
