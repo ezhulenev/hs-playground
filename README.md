@@ -1,2 +1,1 @@
-# hs-playground
-Haskell Playground
+# Haskell Playground
